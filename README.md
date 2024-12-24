@@ -31,7 +31,7 @@ Users should be able to:
 ![ScreenShot](./blog-card-screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://blog-card-blush.vercel.app/)
 
 ## My process
 
