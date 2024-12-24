@@ -16,7 +16,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -67,7 +66,6 @@ Now, i can properly center a div with no hassle, thanks to this project, you Tub
 
 While working on this project, i was struggling with media query. It took me more hours to make it responsive on the smaller mobile devices than completing the project itself. I definitely have to dive more on media query, make research and become proficient in implementing it.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
